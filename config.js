@@ -14,26 +14,26 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;czIXjKLB#Ve897sG9pX3Z4kZ-73-KusNJho8a38H3h-2TVpFLx7c' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://king_0m9r_user:niadqk4Z63V677kvom6mk8rU2KHaZHLx@dpg-cjou3d5he99c738okjr0-a.frankfurt-postgres.render.com/king_0m9r'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94704434195'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = '╰☆☆ 𝙈𝙧.𝘿𝘼𝙍𝙀 ☆☆╮'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
-global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
+global.INBOX_BLOCK_MESSAGE = 'false' // Inboc Block Message
 
-global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
-global.READ_MESSAGE = "true" 
+global.READ_MESSAGE = "false" 
 
 global.OPENAI_API_KEY = "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" 
 
@@ -41,19 +41,19 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = '★彡 𝘿𝘼𝙍𝙀 彡★'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '😈𝘿𝘼𝙍𝙀😈' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = '◦•●◉✿ 𝘿𝘼𝙍𝙀  2023✿◉●•◦'
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = '*•.¸♡ 𝙃𝙞 ♡¸.•*' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
@@ -69,7 +69,7 @@ global.ANTI_LINK = 'false' //Anti Link (on = True , Off = False )
 
 global.ANTI_BOTS = true
 
-global.ONLY_GROUP = 'ture' // Only group mode
+global.ONLY_GROUP = 'false' // Only group mode
 
 global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
 
